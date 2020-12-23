@@ -1,5 +1,9 @@
 # Project Proposal 
 
+## Data on Kaggle
+
+Link: https://www.kaggle.com/aaron7sun/stocknews
+
 ## Domain Background
 
 The topic of this ML project will be "Daily News for Stock Market Prediction". The project idea is inspired by an existing Kaggle dataset. As for background information, the resource of daily news is crawled from 
