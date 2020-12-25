@@ -4,6 +4,12 @@ Medium Article Post:
 
 https://carsonzhang.medium.com/build-a-ml-web-app-for-stock-market-prediction-from-daily-news-with-streamlit-and-python-7c4cf918d9b4
 
+# Files in the Folder
+
+- ML.py is the code script to realize the ML Web App in Streamlit environment.
+- Combined_DJIA.csv contains all the data needed for this project. 
+- Jupyter Notebook includes the ML project workflow with every code cell.
+
 # Dataset Overview:
 
 - Time Range of the Dataset: 2008-08-08 to 2016-07-01.
