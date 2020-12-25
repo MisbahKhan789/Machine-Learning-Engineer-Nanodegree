@@ -47,6 +47,10 @@ Final model results will go through model tuning steps for the highest accuracy.
 - Converting the whole process into a ML pipeline 
 - Presenting as a user-friendly ML web app (By using Streamlit Python Library)
 
+# Web App Display
+
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
 
 
 
