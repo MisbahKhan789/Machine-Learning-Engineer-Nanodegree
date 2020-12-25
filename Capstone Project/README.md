@@ -18,12 +18,12 @@ I am very proud to complete this project because it challenged my skills not onl
 Random Forest Model & Logistic Regression Model are tested as benchmark models first and only Random Forest Model is used for further refinement steps.
 Before refinement, RF model is evaluated by the classification report method and achieves an accuracy of 81%. However, after using refinement method including GridSearch CV, the RF model successfully improves its accuracy by an increment of 3% to 84%.
 
-## Benchmark Model
+# Benchmark Model:
 
 - Random forest
 - Logistic Regression 
 
-## Evaluation Metrics
+# Evaluation Metrics:
 
 - classification report
 - confusion matrix
@@ -31,7 +31,7 @@ Before refinement, RF model is evaluated by the classification report method and
 
 Final model results will go through model tuning steps for the highest accuracy. Tuning methods including: GridSearchCV. 
 
-## Project Design
+# Project Outline:
 
 - Data Preprocessing (filling NaN values; combining headlines columns)
 - NLP Preprocessing (removing punctuations; changing texts to lowercases; tokenization)
