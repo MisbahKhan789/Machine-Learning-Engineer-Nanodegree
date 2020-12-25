@@ -28,7 +28,7 @@ This dataset has 27 columns & 1989 rows.
 
 Basic thoughts:
 - Applying countvectorizer to all the headlines.
-- Applying Machine Learning Algorithms (Random forest , XGBOOST and CATBoost). 
+- Applying Machine Learning Algorithms (Random forest , Logistic Regression). 
 - Comparing Accuracy & Hyperparameter Tuning 
 
 However, I don't want to merely fit on a traditional ML pipeline for this project. In fact, I would like to try other more advanced word embedding method and models for this project as well. To explore some methods that I haven't encountered before in the domain of NLP is also an extra goal of this project. 
@@ -36,8 +36,7 @@ However, I don't want to merely fit on a traditional ML pipeline for this projec
 ## Benchmark Model
 
 - Random forest
-- XGBOOST
-- CATBoost
+- Logistic Regression 
 
 ## Evaluation Metrics
 
@@ -45,7 +44,7 @@ However, I don't want to merely fit on a traditional ML pipeline for this projec
 - confusion matrix
 - accuracy score 
 
-Final model results will go through model tuning steps for the highest accuracy. Tuning methods including: GridSearchCV, RandomizedSearchCV.
+Final model results will go through model tuning steps for the highest accuracy. Tuning methods including: GridSearchCV. 
 
 ## Project Design
 
