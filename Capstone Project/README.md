@@ -49,8 +49,9 @@ Final model results will go through model tuning steps for the highest accuracy.
 
 # Web App Display
 
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/TanjirouNezuko/Machine-Learning-Engineer-Nanodegree/blob/main/Capstone%20Project/images/pic1.png)
+
+![alt text](https://github.com/TanjirouNezuko/Machine-Learning-Engineer-Nanodegree/blob/main/Capstone%20Project/images/pic2.png)
 
 
 
